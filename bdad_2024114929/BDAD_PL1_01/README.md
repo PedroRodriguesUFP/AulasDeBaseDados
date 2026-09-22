@@ -1,6 +1,6 @@
 # Relatório PL1 — Tour inicial pelo PostgreSQL
 
-* **Nome:** Pedro
+* **Nome:** Pedro Rodrigues
 * **Número de Aluno:** 2024114929
 * **Base de Dados:** bdad_2024114929
 * **Sistema Operativo:** Windows 11
